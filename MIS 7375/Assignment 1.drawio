@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="Page-1" id="imKWttMU7D2jOcYYTD1n">
+    <mxGraphModel dx="786" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2MNFyWbfm9h2iREJqb3S-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;gradientColor=light-dark(#000000,#DD59FF);gradientDirection=south;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;gradient background (blue/purple)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;all text in white" vertex="1">
+          <mxGeometry height="780" width="650" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2MNFyWbfm9h2iREJqb3S-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="first&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="120" x="80" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2MNFyWbfm9h2iREJqb3S-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontFamily=Verdana;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;picture (w/link)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="130" x="80" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2MNFyWbfm9h2iREJqb3S-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="date" vertex="1">
+          <mxGeometry height="10" width="70" x="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2MNFyWbfm9h2iREJqb3S-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="last" vertex="1">
+          <mxGeometry height="20" width="120" x="210" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="address line 1" vertex="1">
+          <mxGeometry height="20" width="170" x="80" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="address line 2" vertex="1">
+          <mxGeometry height="20" width="170" x="80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="city" vertex="1">
+          <mxGeometry height="20" width="120" x="80" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="state (drop down list)" vertex="1">
+          <mxGeometry height="20" width="120" x="80" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="zip" vertex="1">
+          <mxGeometry height="20" width="120" x="210" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="DOB" vertex="1">
+          <mxGeometry height="20" width="120" x="80" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="SS#" vertex="1">
+          <mxGeometry height="20" width="120" x="210" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="symptom description box" vertex="1">
+          <mxGeometry height="40" width="150" x="80" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="do you have any of the folloiwng? (5 check boxes)" vertex="1">
+          <mxGeometry height="20" width="270" x="80" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="115" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="150" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="180" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="210" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="240" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="Adventure Time Clinic&lt;br&gt;welcome blurb" vertex="1">
+          <mxGeometry height="20" width="350" x="60" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="80" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="115" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="what is your gender (4 circles)" vertex="1">
+          <mxGeometry height="20" width="270" x="80" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="150" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="185" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="80" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="115" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="80" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="115" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="vaccinated? (2 circles)" vertex="1">
+          <mxGeometry height="20" width="270" x="80" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="insurance? (2 circles)" vertex="1">
+          <mxGeometry height="20" width="270" x="81" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="slider &quot;how are you feeling today?" vertex="1">
+          <mxGeometry height="20" width="270" x="80" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#9E39B8);" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="330" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="email" vertex="1">
+          <mxGeometry height="20" width="180" x="80" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="user ID" vertex="1">
+          <mxGeometry height="20" width="120" x="80" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#FFFFFF);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="password" vertex="1">
+          <mxGeometry height="20" width="120" x="210" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#878787);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="submit button" vertex="1">
+          <mxGeometry height="20" width="120" x="80" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EEEEEE,#878787);strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="clear all button" vertex="1">
+          <mxGeometry height="20" width="120" x="210" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#36393d;fillStyle=solid;fontColor=light-dark(#000000,#000000);" value="&quot;thank you for visiting&quot; message" vertex="1">
+          <mxGeometry height="20" width="270" x="80" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="WAYwRo1IwoKzgKm3PtrR-42" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="730" />
+            </Array>
+            <mxPoint x="20" y="810" as="sourcePoint" />
+            <mxPoint x="670" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
