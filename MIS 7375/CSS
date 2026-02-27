@@ -1,0 +1,68 @@
+/* Program Name: patient-form.html
+Author: Anthony Jaramillo 
+Date Created: 02-09-2026
+Date Last Edited: 02-27-2026
+Version: 13.0
+Description: HTML form to collect user data */
+
+h1 {
+    margin: 0;
+    background: linear-gradient(0deg, rgb(180, 106, 212) 35%, rgb(21, 207, 224) 100%);
+    background-attachment: fixed;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 35px;
+}
+
+h2 {
+    margin: 0;
+    background: linear-gradient(0deg, rgb(180, 106, 212) 35%, rgb(21, 207, 224) 100%);
+    background-attachment: fixed;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 20px;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(0deg, rgb(180, 106, 212) 35%, rgb(21, 207, 224) 100%);
+    background-attachment: fixed;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 15px;
+}
+
+h3, label, p, div, span {
+    color: #F0F8FF;
+    font-family: 'Trebuchet MS:', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+    font-size: 15px;
+}
+input {color: #000000;}
+
+.slider {
+    -webkit-appearance: none;
+    width: 50%;
+    height: 15px;
+    border-radius: 15px;  
+    background: #ffffff;
+    outline: none;
+    opacity: .4;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+  }
+
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%; 
+    background: #ad18a3;
+    cursor: pointer;
+  }
+
+  .slider::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #d006c9;
+    cursor: pointer;
+  }
