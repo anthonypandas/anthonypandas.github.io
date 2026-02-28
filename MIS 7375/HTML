@@ -23,19 +23,6 @@
 <p id="date-display"></p>
 </div>
 
-
-<!-- <div id = "header">
-    <table width = 100%>
-        <tr>
-            <td valign = "bottom" align="right">Today's Date: <span id = "today">Date goes here</span></td>
-        </tr>
-    </table>
-</div>
-
-<script>
-    document.GetElementById("today").innerHTML = new Date().toLocaleDateString
-</script> -->
-
 <script>
     const now = new Date();
     const options = {year: 'numeric', month: 'long', day: 'numeric' };
@@ -43,19 +30,27 @@
     document.getElementById("date-display").textContent = formattedDate;
 </script>
 
-        
-<div id="header"> 
-<img 
-    id="The Logo" 
-    src="images/finn_and_jake.png" 
-    height = "150"
-    alt="Logo"
->
+<div id="header">
+    <a href="https://en.wikipedia.org/wiki/Adventure_Time">
+        <img 
+            id="The Logo" 
+            src="images/finn_and_jake.png" 
+            height="150"
+            alt="Adventure Time Logo"
+        >
+    </a>
+</div>
+
+
+
+
+
 <body onload="document.registration.userid.focus();">
     <h1>Adventure Time Clinic</h1>
     <h2>Welcome! Tell us more about you: </h2>
     <br>
-    <form name='registration' onSubmit="return formValidation();">
+    
+    <form name='registration' onSubmit="return formValidation();" form action = "homework1-thanks.html">
         <label for="First Name">First: </label>
         <input type="text" name="first name" size="30" />
         <label for="Last Name">Last: </label>
@@ -186,8 +181,6 @@
         <label for="pwd">Password:</label>
         <input type="password" id="pwd" name="pwd"><br><br>
 
-        <!-- SUBMIT and CLEAR ALL BUTTONS  -->
-        <!-- ADD SPREADSHEET -->
         <input type="submit" value="Submit">
         <input type="button" value="Clear All" onclick="clearForm()">
         <br>
@@ -198,8 +191,10 @@
 <hr>
 <footer>
     <h2>Thank you for visiting the Adventure Time Clinic!</h2>
+    <a href="https://www.stdavids.com/specialties/emergency-care?gclsrc=aw.ds&utm_source=google&utm_medium=cpc&utm_campaign=CORP_COER_CWTX_AUS_ER_NA_EMC_CONV_PHM_LF&utm_term=hospital+in+austin&utm_content=Location+%26+Contact_Exact&gad_source=1&gad_campaignid=23043716828&gbraid=0AAAAA_S5AJ2GBNVGTW7j_7ojmH1BCQaen">
+        <div>Contact Us</div>
+    </a>
     <br>
 </footer>
 
 </html>
-
